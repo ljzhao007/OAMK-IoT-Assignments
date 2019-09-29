@@ -1,0 +1,17 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+autopep8 = "*"
+
+[packages]
+pandas = "*"
+
+[requires]
+python_version = "3.6"
+
+[scripts]
+assign1 = "python3 assign_1.py"
+assign2 = "python3 assign_2.py"
