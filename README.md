@@ -26,21 +26,21 @@ All the assigments and other info are hosted on the [internal Moodle platform](h
 # Progress
 
 - [x] **Week 1**: LAMP server installation
-- [x] **Week 2**: MySQL basic commands
-- [x] **Week 2**: MySQL ER Diagrams
-- [ ] **Week 3**: R, Python and Mongodb installation
 - [ ] **Week 1**: IoT Cloud Services
-- [ ] **Week 4 + 5**: Mongodb tutorial and exercises
-- [ ] **Week 3**: Python and MySQL
 - [x] **Week 1**: Python tools for data analysis
 - [x] **Week 1**: IoT tutorial
-- [ ] **Week 5**: Time Series Analysis
+- [x] **Week 1**: Programming with Python and Numpy
+- [x] **Week 2**: MySQL basic commands
+- [x] **Week 2**: MySQL ER Diagrams
 - [x] **Week 2**: Python functions
+- [x] **Week 2**: Basic statistics concepts
+- [x] **Week 3**: R, Python and Mongodb installation
+- [ ] **Week 3**: Python and MySQL
 - [ ] **Week 3**: Pandas exercises
 - [ ] **Week 3**: Exploratory data analysis with Pandas
+- [ ] **Week 4**: Visual Data Analysis with Python
+- [ ] **Week 4 + 5**: Mongodb tutorial and exercises
+- [ ] **Week 5**: Time Series Analysis
 - [ ] **Week 6**: R Tutorial
 - [ ] **Week 6**: ELK Stack
-- [x] **Week 1**: Programming with Python and Numpy
-- [x] **Week 2**: Basic statistics concepts
-- [ ] **Week 4**: Visual Data Analysis with Python
 - [ ] **Week 7**: Tensorflow and Kera
