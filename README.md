@@ -25,22 +25,22 @@ All the assigments and other info are hosted on the [internal Moodle platform](h
 
 # Progress
 
-- [x] Week 1: LAMP server installation
-- [x] Week 2: MySQL basic commands
-- [x] Week 2: MySQL ER Diagrams
-- [ ] Week 3: R, Python and Mongodb installation
-- [ ] Week 1: IoT Cloud Services
-- [ ] Week 4 + 5: Mongodb tutorial and exercises
-- [ ] Week 3: Python and MySQL
-- [x] Week 1: Python tools for data analysis
-- [x] Week 1: IoT tutorial
-- [ ] Week 5: Time Series Analysis
-- [x] Week 2: Python functions
-- [ ] Week 3: Pandas exercises
-- [ ] Week 3: Exploratory data analysis with Pandas
-- [ ] Week 6: R Tutorial
-- [ ] Week 6: ELK Stack
-- [x] Week 1: Programming with Python and Numpy
-- [x] Week 2: Basic statistics concepts
-- [ ] Week 4: Visual Data Analysis with Python
-- [ ] Week 7: Tensorflow and Kera
+- [x] **Week 1**: LAMP server installation
+- [x] **Week 2**: MySQL basic commands
+- [x] **Week 2**: MySQL ER Diagrams
+- [ ] **Week 3**: R, Python and Mongodb installation
+- [ ] **Week 1**: IoT Cloud Services
+- [ ] **Week 4 + 5**: Mongodb tutorial and exercises
+- [ ] **Week 3**: Python and MySQL
+- [x] **Week 1**: Python tools for data analysis
+- [x] **Week 1**: IoT tutorial
+- [ ] **Week 5**: Time Series Analysis
+- [x] **Week 2**: Python functions
+- [ ] **Week 3**: Pandas exercises
+- [ ] **Week 3**: Exploratory data analysis with Pandas
+- [ ] **Week 6**: R Tutorial
+- [ ] **Week 6**: ELK Stack
+- [x] **Week 1**: Programming with Python and Numpy
+- [x] **Week 2**: Basic statistics concepts
+- [ ] **Week 4**: Visual Data Analysis with Python
+- [ ] **Week 7**: Tensorflow and Kera
